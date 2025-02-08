@@ -63,3 +63,5 @@ This project highlights my ability to configure SIEM tools, analyze security log
 ### Windows Event Viewer - Failed Logins (Event ID 4625)
 ![Windows Security Log](https://raw.githubusercontent.com/yourusername/brute-force-detection-splunk/main/windows-event-log.png)
 
+### Splunk Alert Configuration - Brute Force Detection
+![Splunk Alert Settings](https://raw.githubusercontent.com/yourusername/brute-force-detection-splunk/main/splunk-alert-settings.png)
