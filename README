@@ -55,3 +55,11 @@ Conclusion
 Successfully deployed a real-time brute force attack detection system leveraging Splunk.
 
 This project highlights my ability to configure SIEM tools, analyze security logs, and develop automated threat detection solutions.
+
+
+### Splunk Query Detecting Brute Force Attacks
+![Brute Force Detection](https://raw.githubusercontent.com/yourusername/brute-force-detection-splunk/main/your-image-name.png)
+
+### Windows Event Viewer - Failed Logins (Event ID 4625)
+![Windows Security Log](https://raw.githubusercontent.com/yourusername/brute-force-detection-splunk/main/windows-event-log.png)
+
