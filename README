@@ -58,10 +58,10 @@ This project highlights my ability to configure SIEM tools, analyze security log
 
 
 ### Splunk Query Detecting Brute Force Attacks
-![Brute Force Detection](https://raw.githubusercontent.com/afernandez123/brute-force-detection-splunk/main/your-image-name.png)
+![Brute Force Detection](https://raw.githubusercontent.com/afernandez123/brute-force-detection-splunk/main/SplunkDetectionbruteforcelogin.png)
 
 ### Windows Event Viewer - Failed Logins (Event ID 4625)
-![Windows Security Log](https://raw.githubusercontent.com/afernandez123/brute-force-detection-splunk/main/windows-event-log.png)
+![Windows Security Log](https://raw.githubusercontent.com/afernandez123/brute-force-detection-splunk/main/EventID4625.png)
 
 ### Splunk Alert Configuration - Brute Force Detection
-![Splunk Alert Settings](https://raw.githubusercontent.com/afernandez123/brute-force-detection-splunk/main/splunk-alert-settings.png)
+![Splunk Alert Settings](https://raw.githubusercontent.com/afernandez123/brute-force-detection-splunk/main/Splunk%20Alert%20Configuration.png)
