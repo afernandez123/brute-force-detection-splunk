@@ -3,25 +3,17 @@ Brute Force Attack Detection using Splunk
 Project Overview
 
 Developed a brute force attack detection system using Splunk SIEM.
-
 Designed and implemented a solution to monitor Windows Event Logs for failed login attempts (Event ID 4625).
-
 Configured a real-time alert to trigger when five or more failed login attempts occur within five minutes.
-
 Demonstrated expertise in security log analysis, automated threat detection, and SIEM configuration.
 
 Tools and Technologies
 
 Splunk
-
 Windows Event Logs
-
 Event ID 4625 (Failed Login Attempts)
-
 PowerShell for attack simulation
-
 Security Information and Event Management (SIEM)
-
 Implementation
 
 Integrated Windows Security Logs into Splunk to capture failed authentication attempts.
